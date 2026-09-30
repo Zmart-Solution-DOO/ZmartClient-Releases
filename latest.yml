@@ -1,0 +1,8 @@
+version: 1.0.78
+files:
+  - url: ZmartClient-1.0.78-setup.exe
+    sha512: b8+92k56nBO6p0alBN7rfYv/r4fnVfesiS81WllOjNmY6YQP1KMdpSGsiV/0Bw6qMh9jA0e+OOf3RqWoVo6PRg==
+    size: 89433005
+path: ZmartClient-1.0.78-setup.exe
+sha512: b8+92k56nBO6p0alBN7rfYv/r4fnVfesiS81WllOjNmY6YQP1KMdpSGsiV/0Bw6qMh9jA0e+OOf3RqWoVo6PRg==
+releaseDate: '2026-09-30T10:30:00.643Z'
